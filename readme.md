@@ -1,6 +1,6 @@
  - Install [node](https://nodejs.org)
  - clone this repo into `C:/dev/` or wherever you like (but you'll have to change the paths)
- - run 'npm install -g gulpjs/gulp-cli#4.0`
+ - run `npm install -g gulpjs/gulp-cli#4.0`
  - run `npm install`
 
  ---
