@@ -1,5 +1,5 @@
  - Install [node](https://nodejs.org)
- - clone this repo into `C:/dev` or wherever you like (but you'll have to change the paths)
+ - clone this repo into `C:/dev/` or wherever you like (but you'll have to change the paths)
  - run `npm install -g gulp`
  - run `npm install`
 
